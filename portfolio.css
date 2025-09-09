@@ -1,0 +1,82 @@
+body{
+    background-color:bisque;
+}
+h1{
+    text-align: center;color:crimson;transition: all 1s ease;
+}
+h1:hover{
+    text-decoration:underline;transform:scaleX(2);
+}
+p{
+    text-align:center ;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    text-decoration:none ; border-radius: 5px; margin:30px auto;padding:5px;border:1px solid black
+    }
+nav a:hover{
+    background-color: darkcyan;color: cornsilk;
+}
+section{
+    background-color:floralwhite;text-align: center;width:800px;margin: 6px auto;border-radius:10px;
+    padding:10px
+}
+figure{
+text-align: center;
+}
+img{
+border-radius:50%;transition: all 2sec ease;
+}
+img:hover{
+    box-shadow:0px 5px 5px ;
+    
+}
+fig caption{
+    font-size:large ;
+}
+h2{
+    text-align: center;
+}
+section h2{
+    text-align: center
+}
+ hr{
+    margin:20px auto
+}
+h2{
+    color:crimson;
+}
+li{
+   list-style-type:none; text-align:left;background-color:ivory;margin:6px;padding:6px
+}
+li:hover{
+    background-color: rgb(217, 183, 172);
+}
+form{
+    text-align: left;
+}
+button{
+    margin-left: 50px;
+}
+button:hover{
+    background-color:cornflowerblue;color:rgb(249, 221, 186);
+}
+img{transition: all 2s ease;}
+img:hover{ 
+    transform:rotate(360deg);
+}
+article{
+    transition: all 1s ease;
+}
+.class{transition: all 2s ease;
+    transform: translateX(20);
+
+}
+
+
+
+
+
+
